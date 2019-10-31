@@ -1,0 +1,1 @@
+﻿G:\O_D_1\Opencv_Program\Billroad\Billroad\Billroad.vcxproj(66,5): error MSB4019: 未找到导入的项目“D:\Opencv_Program\OpenCv330.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
